@@ -8,3 +8,10 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras juni
 - Só serão adicionadas na lista empresas que constantemente oferecem vagas para pessoas desenvolvedoras junior e estagiárias.
 - Serão **deletadas** da lista empresas que peçam experiência prévia para pessoas desenvolvedoras junior e estagiárias.
 - Só deve ser adicionado o link da **página das vagas da empresa**, e não da vaga.
+
+---
+
+- [Sambatech](https://jobs.kenoby.com/sambatech-carreiras/)
+- [Base2](https://jobs.solides.com/base2)
+- [Cognizant](https://careers.cognizant.com/br/pt)
+- [Zé Delivery](https://zedelivery.gupy.io/)
