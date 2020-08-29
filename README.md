@@ -11,3 +11,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras juni
 
 ## Página de vagas da empresa
 
+- [Sambatech](https://jobs.kenoby.com/sambatech-carreiras/)
+- [Base2](https://jobs.solides.com/base2)
+- [Cognizant](https://careers.cognizant.com/br/pt)
+- [Zé Delivery](https://zedelivery.gupy.io/)
