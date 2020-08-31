@@ -17,3 +17,4 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras juni
 - [IBM](https://www.ibm.com/br-pt/employment/entrylevel/)
 - [SAP](https://www.sap.com/brazil/about/careers.html)
 - [Zé Delivery](https://zedelivery.gupy.io/)
+- [Venturus](https://jobs.kenoby.com/venturus/)
