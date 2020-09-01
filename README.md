@@ -14,69 +14,69 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 ## Página de vagas da empresa
 
-### Acre - AC
+#### Acre - AC
 
-### Alagoas - AL
+#### Alagoas - AL
 
-### Amapá - AP
+#### Amapá - AP
 
-### Amazonas - AM
+#### Amazonas - AM
 
-### Bahia - BA
+#### Bahia - BA
 
-### Ceará - CE
+#### Ceará - CE
 
-### Distrito Federal - DF
+#### Distrito Federal - DF
 
-### Espírito Santo - ES
+#### Espírito Santo - ES
 
-### Goiás - GO
+#### Goiás - GO
 
-### Maranhão - MA
+#### Maranhão - MA
 
-### Mato Grosso - MT
+#### Mato Grosso - MT
 
-### Mato Grosso do Sul - MS
+#### Mato Grosso do Sul - MS
 
-### Minas Gerais - MG
+#### Minas Gerais - MG
 
 -   [Base2](https://jobs.solides.com/base2)
 -   [CI&T](https://br.ciandt.com/carreiras/programa-de-estagio-next-gen)
 
-### Pará - PA
+#### Pará - PA
 
-### Paraíba - PB
+#### Paraíba - PB
 
-### Paraná - PR
+#### Paraná - PR
 
 -   [Daitan](https://careers-br.daitan.com/pt/vagas/)
 -   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
-### Pernambuco - PE
+#### Pernambuco - PE
 
-### Piauí - PI
+#### Piauí - PI
 
-### Rio de Janeiro - RJ
+#### Rio de Janeiro - RJ
 
 -   [Cognizant](https://careers.cognizant.com/br/pt)
 -   [Daitan](https://careers-br.daitan.com/pt/vagas/)
 -   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
-### Rio Grande do Norte - RN
+#### Rio Grande do Norte - RN
 
-### Rio Grande do Sul - RS
+#### Rio Grande do Sul - RS
 
 -   [SAP](https://www.sap.com/brazil/about/careers.html)
 
-### Rondônia - RO
+#### Rondônia - RO
 
-### Roraima - RR
+#### Roraima - RR
 
-### Santa Catarina - SC
+#### Santa Catarina - SC
 
 -   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
-### São Paulo - SP
+#### São Paulo - SP
 
 -   [B2W](https://carreiras.b2w.io/)
 -   [Cognizant](https://careers.cognizant.com/br/pt)
@@ -87,6 +87,6 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 -   [Zé Delivery](https://zedelivery.gupy.io/)
 -   [Venturus](https://jobs.kenoby.com/venturus/)
 
-### Sergipe - SE
+#### Sergipe - SE
 
-### Tocantins - TO
+#### Tocantins - TO
