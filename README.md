@@ -86,6 +86,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 -   [Facebook](https://fbestagio2021.splashthat.com/)
 -   [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Multiplas cidades (Algumas vagas tem esse titulo ao invés do estado)**
 -   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+-   [Iteris Consultoria](https://jobs.kenoby.com/iteris)
 -   [Zé Delivery](https://zedelivery.gupy.io/)
 -   [Venturus](https://jobs.kenoby.com/venturus/)
 
