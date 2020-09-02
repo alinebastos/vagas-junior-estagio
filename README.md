@@ -10,7 +10,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 -   Serão **deletadas** da lista empresas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
 -   Só deve ser adicionado o link da **página das vagas da empresa**, e não da vaga.
 
-#### Importante: Se alguem achar em uma dessas empresas vagas de júnior ou estagiário pedindo experiência, me avise em qualquer rede social, pode ate mesmo abrir uma issue aqui, que a empresa será deletada da lista.
+### Se alguem achar em uma dessas empresas vagas de júnior ou estagiário pedindo experiência, me avise em qualquer rede social, pode ate mesmo abrir uma issue aqui, que a empresa será deletada da lista.
 
 ## Página de vagas da empresa
 
@@ -86,6 +86,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 -   [Facebook](https://fbestagio2021.splashthat.com/)
 -   [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Multiplas cidades (Algumas vagas tem esse titulo ao invés do estado)**
 -   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+-   [Iteris Consultoria](https://jobs.kenoby.com/iteris)
 -   [Zé Delivery](https://zedelivery.gupy.io/)
 -   [Venturus](https://jobs.kenoby.com/venturus/)
 
