@@ -60,7 +60,6 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Rio de Janeiro - RJ
 
--   [Cognizant](https://careers.cognizant.com/br/pt)
 -   [Daitan](https://careers-br.daitan.com/pt/vagas/)
 -   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
