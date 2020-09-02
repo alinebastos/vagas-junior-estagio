@@ -16,6 +16,8 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Remotas
 
+- [BRQ](http://www.brq.com/por-que-trabalhar-na-brq/vagas)
+
 #### Acre - AC
 
 #### Alagoas - AL
