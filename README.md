@@ -87,7 +87,6 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 -   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 -   [Iteris Consultoria](https://jobs.kenoby.com/iteris)
 -   [Zé Delivery](https://zedelivery.gupy.io/)
--   [Venturus](https://jobs.kenoby.com/venturus/)
 
 #### Sergipe - SE
 
