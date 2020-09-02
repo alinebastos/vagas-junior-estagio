@@ -10,7 +10,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 -   Serão **deletadas** da lista empresas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
 -   Só deve ser adicionado o link da **página das vagas da empresa**, e não da vaga.
 
-### Se alguem achar em uma dessas empresas vagas de júnior ou estagiário pedindo experiência, me avise em qualquer rede social, pode ate mesmo abrir uma issue aqui, que a empresa será deletada da lista.
+#### Importante: Se alguem achar em uma dessas empresas vagas de júnior ou estagiário pedindo experiência, me avise em qualquer rede social, pode ate mesmo abrir uma issue aqui, que a empresa será deletada da lista.
 
 ## Página de vagas da empresa
 
