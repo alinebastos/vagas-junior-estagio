@@ -24,3 +24,4 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 - [SAP](https://www.sap.com/brazil/about/careers.html)
 - [Zé Delivery](https://zedelivery.gupy.io/)
 - [Venturus](https://jobs.kenoby.com/venturus/)
+- [TOTVS](https://www.totvs.com/trabalhe-conosco/)
