@@ -82,7 +82,6 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 #### São Paulo - SP
 
 -   [B2W](https://carreiras.b2w.io/)
--   [Cognizant](https://careers.cognizant.com/br/pt)
 -   [Daitan](https://careers-br.daitan.com/pt/vagas/)
 -   [Facebook](https://fbestagio2021.splashthat.com/)
 -   [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Multiplas cidades (Algumas vagas tem esse titulo ao invés do estado)**
