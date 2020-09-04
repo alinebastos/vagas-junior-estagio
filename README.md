@@ -46,6 +46,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 -   [Base2](https://jobs.solides.com/base2)
 -   [CI&T](https://br.ciandt.com/carreiras/programa-de-estagio-next-gen)
+-   [Mundiale](https://jobs.kenoby.com/mundiale)
 
 #### Pará - PA
 
