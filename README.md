@@ -6,9 +6,9 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 ## Regras:
 
--   Só serão adicionadas na lista empresas que constantemente oferecem vagas para pessoas desenvolvedoras júnior e estagiárias.
--   Serão **deletadas** da lista empresas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
--   Só deve ser adicionado o link da **página das vagas da empresa**, e não da vaga.
+- Só serão adicionadas na lista empresas que constantemente oferecem vagas para pessoas desenvolvedoras júnior e estagiárias.
+- Serão **deletadas** da lista empresas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
+- Só deve ser adicionado o link da **página das vagas da empresa**, e não da vaga.
 
 #### Importante: Se alguem achar em uma dessas empresas vagas de júnior ou estagiário pedindo experiência, me avise em qualquer rede social, pode ate mesmo abrir uma issue aqui, que a empresa será deletada da lista.
 
@@ -17,6 +17,11 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 #### Remotas
 
 - [BRQ](http://www.brq.com/por-que-trabalhar-na-brq/vagas)
+
+#### Várias cidades
+
+- [Accenture](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1)
+- [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Somente estágios. Pedem experiência para júnior**
 
 #### Acre - AC
 
@@ -44,9 +49,9 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Minas Gerais - MG
 
--   [Base2](https://jobs.solides.com/base2)
--   [CI&T](https://br.ciandt.com/carreiras/programa-de-estagio-next-gen)
--   [Mundiale](https://jobs.kenoby.com/mundiale)
+- [Base2](https://jobs.solides.com/base2)
+- [CI&T](https://br.ciandt.com/carreiras/programa-de-estagio-next-gen)
+- [Mundiale](https://jobs.kenoby.com/mundiale)
 
 #### Pará - PA
 
@@ -54,8 +59,8 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Paraná - PR
 
--   [Daitan](https://careers-br.daitan.com/pt/vagas/)
--   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+- [Daitan](https://careers-br.daitan.com/pt/vagas/)
+- [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
 #### Pernambuco - PE
 
@@ -63,14 +68,14 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Rio de Janeiro - RJ
 
--   [Daitan](https://careers-br.daitan.com/pt/vagas/)
--   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+- [Daitan](https://careers-br.daitan.com/pt/vagas/)
+- [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
 #### Rio Grande do Norte - RN
 
 #### Rio Grande do Sul - RS
 
--   [SAP](https://www.sap.com/brazil/about/careers.html)
+- [SAP](https://www.sap.com/brazil/about/careers.html)
 
 #### Rondônia - RO
 
@@ -78,17 +83,16 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Santa Catarina - SC
 
--   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+- [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
 #### São Paulo - SP
 
--   [B2W](https://carreiras.b2w.io/)
--   [Daitan](https://careers-br.daitan.com/pt/vagas/)
--   [Facebook](https://fbestagio2021.splashthat.com/)
--   [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Multiplas cidades (Algumas vagas tem esse titulo ao invés do estado)**
--   [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
--   [Iteris Consultoria](https://jobs.kenoby.com/iteris)
--   [Zé Delivery](https://zedelivery.gupy.io/)
+- [B2W](https://carreiras.b2w.io/)
+- [Daitan](https://careers-br.daitan.com/pt/vagas/)
+- [Facebook](https://fbestagio2021.splashthat.com/)
+- [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+- [Iteris Consultoria](https://jobs.kenoby.com/iteris)
+- [Zé Delivery](https://zedelivery.gupy.io/)
 
 #### Sergipe - SE
 
