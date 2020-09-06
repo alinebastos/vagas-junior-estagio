@@ -21,6 +21,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 #### Várias cidades
 
 - [Accenture](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1)
+- [Contabilizei](https://contabilizei.gupy.io/)
 - [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Somente estágios. Pedem experiência para júnior**
 
 #### Acre - AC
