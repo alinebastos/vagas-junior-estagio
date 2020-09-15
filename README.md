@@ -19,6 +19,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 #### Remotas
 
 - [BRQ](http://www.brq.com/por-que-trabalhar-na-brq/vagas)
+- [Roit Contabilidade](https://roit.gupy.io/)
 
 #### Várias cidades
 
@@ -64,6 +65,7 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+- [Roit Contabilidade](https://roit.gupy.io/)
 
 #### Pernambuco - PE
 
