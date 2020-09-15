@@ -12,6 +12,8 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Importante: Se alguem achar em uma dessas empresas vagas de júnior ou estagiário pedindo experiência, me avise em qualquer rede social, pode ate mesmo abrir uma issue aqui, que a empresa será deletada da lista.
 
+# Criaremos listas nas issues também, com o mesmo padrão do Frontend/Vagas, para quando foram vagas soltas.
+
 ## Página de vagas da empresa
 
 #### Remotas
