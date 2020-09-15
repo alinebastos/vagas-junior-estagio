@@ -1,20 +1,20 @@
-# Empresas que contratam pessoas desenvolvedoras júnior e estagiárias
-
-Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras júnior e estagiárias.
+# Empresas e vagas para pessoas desenvolvedoras júnior e estagiárias
 
 ### Lembrem-se: júnior é aquela pessoa que provavelmente NÃO tem experiência!
 
 ## Regras:
 
-- Só serão adicionadas na lista empresas que constantemente oferecem vagas para pessoas desenvolvedoras júnior e estagiárias.
-- Serão **deletadas** da lista empresas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
+- Só serão adicionadas empresas e vagas que **não peçam experiência prévia** para pessoas desenvolvedoras júnior e estagiárias.
+- Serão **deletadas** empresas e vagas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
+
+## Vagas para pessoas desenvolvedoras júnior e estagiárias:
+
+Criaremos listas com vagas nas issues também, com o mesmo padrão do [Frontend/Vagas](https://github.com/frontendbr/vagas/issues). 
+Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-estagio/issues) já vai abrir um template para você somente editar com os dados da vaga. 
+
+## Empresas que oferecem vagas e programas para júnior e estágio:
+
 - Só deve ser adicionado o link da **página das vagas da empresa**, e não da vaga.
-
-#### Importante: Se alguem achar em uma dessas empresas vagas de júnior ou estagiário pedindo experiência, me avise em qualquer rede social, pode ate mesmo abrir uma issue aqui, que a empresa será deletada da lista.
-
-# Criaremos listas nas issues também, com o mesmo padrão do Frontend/Vagas, para quando foram vagas soltas.
-
-## Página de vagas da empresa
 
 #### Remotas
 
