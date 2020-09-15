@@ -42,9 +42,9 @@ Empresas que **constantemente** oferecem vagas para pessoas desenvolvedoras jún
 
 #### Goiás - GO
 
-- [Tron](https://www.tron.com.br/) A empresa que cuida do RH é a [Tetris](https://web.facebook.com/tetrisbpo/?_rdc=1&_rdr)
-- [Supera](https://curriculo.supera.com.br/curriculo)
 - [Soluti](https://www.euquerosersoluti.com.br/)
+- [Supera](https://curriculo.supera.com.br/curriculo)
+- [Tron](https://www.tron.com.br/) A empresa que cuida do RH é a [Tetris](https://web.facebook.com/tetrisbpo/?_rdc=1&_rdr)
 
 #### Maranhão - MA
 
