@@ -2,7 +2,7 @@
 
 ### Lembrem-se: júnior é aquela pessoa que provavelmente NÃO tem experiência!
 
-## Regras:
+### Regras:
 
 - Só serão adicionadas empresas e vagas que **não peçam experiência prévia** para pessoas desenvolvedoras júnior e estagiárias.
 - Serão **deletadas** empresas e vagas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
