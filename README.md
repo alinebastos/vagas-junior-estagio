@@ -45,6 +45,10 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Goiás - GO
 
+- [Soluti](https://www.euquerosersoluti.com.br/)
+- [Supera](https://curriculo.supera.com.br/curriculo)
+- [Tron](https://www.tron.com.br/) A empresa que cuida do RH é a [Tetris](https://web.facebook.com/tetrisbpo/?_rdc=1&_rdr)
+
 #### Maranhão - MA
 
 #### Mato Grosso - MT
