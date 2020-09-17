@@ -85,13 +85,14 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 #### Rio Grande do Sul - RS
 
 - [SAP](https://www.sap.com/brazil/about/careers.html)
+- [SOUTH SYSTEM](https://southsystem.com.br/vagas.php)
 
 #### Rondônia - RO
 
 #### Roraima - RR
 
 #### Santa Catarina - SC
-
+- [SOUTH SYSTEM](https://southsystem.com.br/vagas.php)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
 #### São Paulo - SP
