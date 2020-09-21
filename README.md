@@ -5,7 +5,7 @@
 ### Regras:
 
 - Só serão adicionadas empresas e vagas que **não peçam experiência prévia** para pessoas desenvolvedoras júnior e estagiárias.
-- Serão **deletadas** empresas e vagas que peçam experiência prévia para pessoas desenvolvedoras júnior e estagiárias.
+- Serão **deletadas** empresas e vagas que peçam **experiência prévia** ou **proficiência** em alguma coisa para pessoas desenvolvedoras júnior e estagiárias.
 
 ## Vagas para pessoas desenvolvedoras júnior e estagiárias:
 
