@@ -99,6 +99,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 - [B2W](https://carreiras.b2w.io/)
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
+- [Elo7](https://elo7.gupy.io/)
 - [Facebook](https://fbestagio2021.splashthat.com/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 - [Iteris Consultoria](https://jobs.kenoby.com/iteris)
