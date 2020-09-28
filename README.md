@@ -79,6 +79,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+- [Stone](https://boards.greenhouse.io/stone/)
 
 #### Rio Grande do Norte - RN
 
