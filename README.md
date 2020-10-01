@@ -69,6 +69,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
+- [Mirum Agency](https://jobs.kenoby.com/mirum)
 - [Roit Contabilidade](https://roit.gupy.io/)
 
 #### Pernambuco - PE
