@@ -19,8 +19,9 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 #### Remotas
 
 - [BRQ](http://www.brq.com/por-que-trabalhar-na-brq/vagas)
-- [Roit Contabilidade](https://roit.gupy.io/)
 - [Codeby](https://codeby.com.br/pages/vagas)
+- [Roit Contabilidade](https://roit.gupy.io/)
+
 
 #### Várias cidades
 
