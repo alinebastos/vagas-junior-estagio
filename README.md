@@ -101,6 +101,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### São Paulo - SP
 
+- [Argo Solutions](https://useargo.gupy.io/)
 - [B2W](https://carreiras.b2w.io/)
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Elo7](https://elo7.gupy.io/)
