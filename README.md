@@ -119,6 +119,8 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Facebook](https://fbestagio2021.splashthat.com/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 - [Iteris Consultoria](https://jobs.kenoby.com/iteris)
+- [Locaweb](https://jobs.kenoby.com/locaweb)
+  - Programa [Quero Ser Dev](https://jobs.kenoby.com/QSD%202020) em 2020 na 6ª edição busca por desenvolvedoras júnior
 - [Zé Delivery](https://zedelivery.gupy.io/)
 
 #### Sergipe - SE
