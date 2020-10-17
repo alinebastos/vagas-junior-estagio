@@ -40,6 +40,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 #### Amazonas - AM
 
 #### Bahia - BA
+- [Solutis](https://solutis.gupy.io/)
 
 #### Ceará - CE
 
