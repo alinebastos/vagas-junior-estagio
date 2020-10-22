@@ -18,6 +18,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Remotas
 
+- [B2W](https://carreiras.b2w.io/)
 - [BRQ](http://www.brq.com/por-que-trabalhar-na-brq/vagas)
 - [Codeby](https://codeby.com.br/pages/vagas)
 - [Roit Contabilidade](https://roit.gupy.io/)
@@ -114,7 +115,6 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 #### São Paulo - SP
 
 - [Argo Solutions](https://useargo.gupy.io/)
-- [B2W](https://carreiras.b2w.io/)
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Elo7](https://elo7.gupy.io/)
 - [Facebook](https://fbestagio2021.splashthat.com/)
