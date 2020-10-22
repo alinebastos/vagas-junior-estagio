@@ -24,6 +24,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Roit Contabilidade](https://roit.gupy.io/)
 - [BGC Brasil](https://padlet.com/academiadouniversitario/SuperEstagioBGCBrasil)
   - Programa de estágio para desenvolvedoras
+- [PicPay](https://picpay.gupy.io)
 
 
 #### Várias cidades
@@ -48,6 +49,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 #### Distrito Federal - DF
 
 #### Espírito Santo - ES
+- [PicPay](https://picpay.gupy.io)
 
 #### Goiás - GO
 
@@ -122,6 +124,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Iteris Consultoria](https://jobs.kenoby.com/iteris)
 - [Locaweb](https://jobs.kenoby.com/locaweb)
   - Programa [Quero Ser Dev](https://jobs.kenoby.com/QSD%202020) em 2020 na 6ª edição busca por desenvolvedoras júnior
+- [PicPay](https://picpay.gupy.io)
 - [Zé Delivery](https://zedelivery.gupy.io/)
 
 #### Sergipe - SE
