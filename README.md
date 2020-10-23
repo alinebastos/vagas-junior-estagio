@@ -9,8 +9,8 @@
 
 ## Vagas para pessoas desenvolvedoras júnior e estagiárias:
 
-Criaremos listas com vagas nas issues também, com o mesmo padrão do [Frontend/Vagas](https://github.com/frontendbr/vagas/issues). 
-Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-estagio/issues) já vai abrir um template para você somente editar com os dados da vaga. 
+Criaremos listas com vagas nas issues também, com o mesmo padrão do [Frontend/Vagas](https://github.com/frontendbr/vagas/issues).
+Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-estagio/issues) já vai abrir um template para você somente editar com os dados da vaga.
 
 ## Empresas que oferecem vagas e programas para júnior e estágio:
 
@@ -55,6 +55,8 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Mato Grosso do Sul - MS
 
+- [Jera](https://jera.com.br/trabalhe-na-jera)
+
 #### Minas Gerais - MG
 
 - [Base2](https://jobs.solides.com/base2)
@@ -92,6 +94,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 #### Roraima - RR
 
 #### Santa Catarina - SC
+
 - [SOUTH SYSTEM](https://southsystem.com.br/vagas.php)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
