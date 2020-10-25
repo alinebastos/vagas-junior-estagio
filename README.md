@@ -130,6 +130,10 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [PicPay](https://picpay.gupy.io)
 - [Zé Delivery](https://zedelivery.gupy.io/)
 
+#### São Jose dos Campos - SP
+
+- [Buser](https://jobs.buser.com.br/apply/CEy9kt8P8m/Busercamp) e um bootcamp (remunerado, um dos disponiveis paga 3.500) fullstack que nao exige experiência em programação
+
 #### Sergipe - SE
 
 #### Tocantins - TO
