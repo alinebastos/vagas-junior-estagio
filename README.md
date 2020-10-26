@@ -45,6 +45,9 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Solutis](https://solutis.gupy.io/)
 
 #### Ceará - CE
+- [Instituto Atlântico (IA)](https://www.atlantico.com.br/)
+- [CPQi](https://cpqi.com/pt-br/)
+- [Casa Magalhães](https://www.casamagalhaes.com.br/trabalhe-conosco/)
 
 #### Distrito Federal - DF
 
