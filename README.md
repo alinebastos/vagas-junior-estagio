@@ -25,7 +25,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [BGC Brasil](https://padlet.com/academiadouniversitario/SuperEstagioBGCBrasil)
   - Programa de estágio para desenvolvedoras
 - [PicPay](https://picpay.gupy.io)
-
+- [Pitang](https://pitang.solides.jobs/)
 
 #### Várias cidades
 
