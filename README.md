@@ -46,6 +46,9 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Ceará - CE
 
+- [Insight Lab](https://insightlab.ufc.br/vagas/)
+- [LDS Labs](http://www.lds.ifce.edu.br/)
+
 #### Distrito Federal - DF
 
 #### Espírito Santo - ES
