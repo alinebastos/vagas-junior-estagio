@@ -48,6 +48,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 - [Insight Lab](https://insightlab.ufc.br/vagas/)
 - [LDS Labs](http://www.lds.ifce.edu.br/)
+- [GREat Lab](https://www.great.ufc.br/index.php/faca-parte/vagas)
 
 #### Distrito Federal - DF
 
