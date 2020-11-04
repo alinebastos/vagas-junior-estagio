@@ -135,7 +135,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Zé Delivery](https://zedelivery.gupy.io/)
 
 #### São Jose dos Campos - SP
-[Imagem](https://grupoimg.com.br/vagas) 
+- [Imagem](https://grupoimg.com.br/vagas) 
 #### Sergipe - SE
 
 #### Tocantins - TO
