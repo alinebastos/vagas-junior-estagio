@@ -123,7 +123,6 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### São Paulo - SP
 
-- [Argo Solutions](https://useargo.gupy.io/)
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Elo7](https://elo7.gupy.io/)
 - [Facebook](https://fbestagio2021.splashthat.com/)
