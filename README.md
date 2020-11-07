@@ -18,14 +18,8 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Remotas
 
-- [B2W](https://carreiras.b2w.io/)
-- [BRQ](http://www.brq.com/por-que-trabalhar-na-brq/vagas)
 - [Codeby](https://codeby.com.br/pages/vagas)
 - [Roit Contabilidade](https://roit.gupy.io/)
-- [BGC Brasil](https://padlet.com/academiadouniversitario/SuperEstagioBGCBrasil)
-  - Programa de estágio para desenvolvedoras
-- [PicPay](https://picpay.gupy.io)
-
 
 #### Várias cidades
 
@@ -95,6 +89,8 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 - [Stone](https://boards.greenhouse.io/stone/)
+- [BGC Brasil](https://padlet.com/academiadouniversitario/SuperEstagioBGCBrasil)
+  - Programa de estágio para desenvolvedoras
 
 #### Rio Grande do Norte - RN
 
