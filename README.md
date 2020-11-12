@@ -96,6 +96,11 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Rio Grande do Sul - RS
 
+- [COMPASSO UOL](https://compasso.gupy.io/) possui várias vagas em diversas senioridades. Além disso, a Compasso possui um programa chamado Fast Track que é destinado a estudantes, recém formados. Basicamente são trilhas de aprendizagem, onde é possível se desenvolver em uma stack e
+após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.  
+  - [Fast Track - Trilha Front-end](https://compasso.gupy.io/jobs/506700?jobBoardSource=gupy_public_page)
+  - [Fast Track - Trilha Engenharia de Dados](https://compasso.gupy.io/jobs/278354?jobBoardSource=gupy_public_page)
+  - [Fast Track - Trilha Back-end Java](https://compasso.gupy.io/jobs/527860?jobBoardSource=gupy_public_page)
 - [CWI](https://cwi.com.br/oportunidades)
   - O programa [Crescer](https://cwi.com.br/area-de-apoio/crescer) é voltado para estudantes de TI com idade mínima de 16 anos.
 - [Ilegra](https://ilegra.gupy.io/)
