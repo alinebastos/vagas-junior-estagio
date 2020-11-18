@@ -105,7 +105,6 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
   - O programa [Crescer](https://cwi.com.br/area-de-apoio/crescer) é voltado para estudantes de TI com idade mínima de 16 anos.
 - [Ilegra](https://ilegra.gupy.io/)
   - A empresa conta com o programa [Jovens Talentos](https://medium.com/ilegra/jovens-talentos-ilegra-um-start-para-sua-carreira-ada4221e57d6) que é voltado para estudantes que estejam cursando graduação, das mais diversas áreas. 
-- [SAP](https://www.sap.com/brazil/about/careers.html)
 - [SOUTH SYSTEM](https://southsystem.com.br/vagas.php)
   - Projeto [Impulsionar](https://www.linkedin.com/posts/south-system_lan%C3%A7amento-projeto-impulsionar-activity-6712083435101396992-qhPB) é para pessoas acima de 18 anos em início de carreira ou migrando de uma área para a TI
 - [Viaflow](https://viaflow.gupy.io/)
