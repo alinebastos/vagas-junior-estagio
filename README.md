@@ -108,6 +108,8 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
   - Projeto [Impulsionar](https://www.linkedin.com/posts/south-system_lan%C3%A7amento-projeto-impulsionar-activity-6712083435101396992-qhPB) é para pessoas acima de 18 anos em início de carreira ou migrando de uma área para a TI
 - [Viaflow](https://viaflow.gupy.io/)
   - [FlowTalents](https://viaflow.com.br/flowtalents/)
+- [Dynamika Soluções WEB](http://dynamika.com.br/site/home/contato)
+  - Vaga presencial de estagiário para programador backend, rua boqueirão, **Canoas**.<br/>Necessário estar estudando, envie seu currículo para [contato@dynamika.com.br](mailto:contato@dynamika.com.br)
 
 #### Rondônia - RO
 
