@@ -108,6 +108,8 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
   - Projeto [Impulsionar](https://www.linkedin.com/posts/south-system_lan%C3%A7amento-projeto-impulsionar-activity-6712083435101396992-qhPB) é para pessoas acima de 18 anos em início de carreira ou migrando de uma área para a TI
 - [Viaflow](https://viaflow.gupy.io/)
   - [FlowTalents](https://viaflow.com.br/flowtalents/)
+- [ThoughtWorks](https://www.thoughtworks.com/pt/careers/jobs)-[Sicredi](https://sicredi.gupy.io/)-[Globo](https://talentos.globo.com/)-[PUC-RS](https://carreiras.pucrs.br/)
+  - [Aceleradora Ágil](https://www.thoughtworks.com/pt/aceleradora) está buscando pessoas para a turma de 2021/01. As inscricões para a primeira turma estão abertas até 07/01/2021 e são feitas atráves deste [form](https://docs.google.com/forms/d/e/1FAIpQLSccCgLwlYiXc86yGdJoy_yoeS0QUk-ipvJHymDAFeRsrYaUmg/viewform). 
 
 #### Rondônia - RO
 
