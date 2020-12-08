@@ -122,7 +122,6 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Elo7](https://elo7.gupy.io/)
-- [Facebook](https://fbestagio2021.splashthat.com/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 - [Iteris Consultoria](https://jobs.kenoby.com/iteris)
 - [Locaweb](https://jobs.kenoby.com/locaweb)
