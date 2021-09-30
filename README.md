@@ -129,7 +129,7 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 - [Locaweb](https://jobs.kenoby.com/locaweb)
   - Programa [Quero Ser Dev](https://jobs.kenoby.com/QSD%202020) em 2020 na 6ª edição busca por desenvolvedoras júnior
 - [PicPay](https://picpay.gupy.io)
-- [Zé Delivery](https://zedelivery.gupy.io/)
+- [Zé Delivery](https://www.linkedin.com/company/zedelivery/jobs/?viewAsMember=true)
 
 #### São Jose dos Campos - SP
 - [Imagem](https://grupoimg.com.br/vagas) 
