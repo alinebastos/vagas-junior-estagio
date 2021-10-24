@@ -20,6 +20,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 - [Codeby](https://codeby.com.br/pages/vagas)
 - [Roit Contabilidade](https://roit.gupy.io/)
+- [Mais Todos](https://www.maistodos.com.br)
 
 #### Várias cidades
 
