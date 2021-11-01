@@ -123,6 +123,8 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 
 #### São Paulo - SP
 
+- [Creditas](https://boards.greenhouse.io/creditas/)
+  - Programa de Estágio abre anualmente no mês de Junho
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
 - [Elo7](https://elo7.gupy.io/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
