@@ -26,6 +26,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Accenture](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1)
 - [Contabilizei](https://contabilizei.gupy.io/)
 - [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Somente estágios. Pedem experiência para júnior**
+- [Dell Technologies](https://carreiras.dell.com/search-jobs) Colocar no filtro de nível de carreira "Estudante" e "Níveis de entrada" (nesse site não tem as vagas para estágio)
 
 #### Acre - AC
 
@@ -110,6 +111,7 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
   - [FlowTalents](https://viaflow.com.br/flowtalents/)
 - [Dynamika Soluções WEB](http://dynamika.com.br/site/home/contato)
   - Vaga presencial de estagiário para programador backend, rua boqueirão, **Canoas**.<br/>Necessário estar estudando, envie seu currículo para [contato@dynamika.com.br](mailto:contato@dynamika.com.br)
+- [PUCRS DELL IT Academy](https://www.linkedin.com/company/cipucrs/) abrem 15 vagas para estágio 4 vezes ao ano, no início do estágio é fornecido um treinamento de 4 meses.
 
 
 #### Rondônia - RO
