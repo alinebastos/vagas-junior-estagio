@@ -82,6 +82,8 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Pernambuco - PE
 
+- [FADE - UFPE](https://fade.org.br/category/inscricoes-abertas/) - **Somente estágios. Pedem experiência para júnior**
+
 #### Piauí - PI
 
 #### Rio de Janeiro - RJ
