@@ -18,6 +18,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Remotas
 
+- [BRQ](https://digital.brq.com/formacao-entry-point)
 - [Codeby](https://codeby.com.br/pages/vagas)
 - [Roit Contabilidade](https://roit.gupy.io/)
 
