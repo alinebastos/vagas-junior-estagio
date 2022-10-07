@@ -139,6 +139,7 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 - [PicPay](https://picpay.gupy.io)
 - [Zé Delivery](https://www.linkedin.com/company/zedelivery/jobs/?viewAsMember=true)
 - [Grupo FCamara](https://jobs.kenoby.com/fcamara/) possui o Programa de Formação uma iniciativa do Grupo FCamara para contratar quem está no início da carreira e tem como objetivo trabalhar com tecnologia.
+- [Nubank](https://estagio.nubank.com.br/) tem programas afirmativos para mulheres, PCD, pessoas negras, o programa de estágio normalmente não pede conhecimento prévio e nem curso específico, apenas interesse para aprender as áreas disponíveis
 
 #### São Jose dos Campos - SP
 - [Imagem](https://grupoimg.com.br/vagas) 
