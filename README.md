@@ -114,7 +114,7 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 - [Dynamika Soluções WEB](http://dynamika.com.br/site/home/contato)
   - Vaga presencial de estagiário para programador backend, rua boqueirão, **Canoas**.<br/>Necessário estar estudando, envie seu currículo para [contato@dynamika.com.br](mailto:contato@dynamika.com.br)
 - [PUCRS DELL IT Academy](https://www.linkedin.com/company/cipucrs/) abrem 15 vagas para estágio 4 vezes ao ano, no início do estágio é fornecido um treinamento de 4 meses.
-
+- [SoftDesign](https://softdesign.gupy.io/candidates/opportunities) possui um programa de Trainee com o objetivo de desenvolver jovens, pessoal e profissionalmente, para formar os futuros colaboradores da SoftDesign.
 
 #### Rondônia - RO
 
@@ -137,6 +137,7 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
   - Programa [Quero Ser Dev](https://jobs.kenoby.com/QSD%202020) em 2020 na 6ª edição busca por desenvolvedoras júnior
 - [PicPay](https://picpay.gupy.io)
 - [Zé Delivery](https://www.linkedin.com/company/zedelivery/jobs/?viewAsMember=true)
+- [Grupo FCamara](https://jobs.kenoby.com/fcamara/) possui o Programa de Formação uma iniciativa do Grupo FCamara para contratar quem está no início da carreira e tem como objetivo trabalhar com tecnologia.
 
 #### São Jose dos Campos - SP
 - [Imagem](https://grupoimg.com.br/vagas) 
