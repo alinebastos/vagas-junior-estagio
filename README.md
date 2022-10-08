@@ -98,6 +98,8 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Rio Grande do Norte - RN
 
+- [ESIG GROUP](https://esig.group/vagas/) é uma empresa voltada para area de desenvolvimento de softwares para educação publica, possui varias vagas para todos os niveis e areas diversas de tecnologia, para procurar as vagas de estagio selecione Tipo de contrato -> Estagio, é necessario estar cursando uma graduação.  **Somente estágios. Pedem experiência para júnior**
+
 #### Rio Grande do Sul - RS
 
 - [COMPASSO UOL](https://compasso.gupy.io/) possui várias vagas em diversas senioridades. Além disso, a Compasso possui um programa chamado Fast Track que é destinado a estudantes, recém formados. Basicamente são trilhas de aprendizagem, onde é possível se desenvolver em uma stack e
