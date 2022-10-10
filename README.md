@@ -21,6 +21,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [BRQ](https://digital.brq.com/formacao-entry-point)
 - [Codeby](https://codeby.com.br/pages/vagas)
 - [Roit Contabilidade](https://roit.gupy.io/)
+- [Serasa Experian](https://99jobs.com/serasa-experian-s-a/jobs/270923?preview=tru) Estágio 2023 totalmente remoto, sem experiência, para as áreas: Analytics, Dados, Desenvolvimento de Software & Produto (DEV), Gestão de Produtos,  Infraestrutura e Cloud.
 
 #### Várias cidades
 
@@ -126,8 +127,11 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 - [SOUTH SYSTEM](https://southsystem.com.br/vagas.php)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
+#### São Carlos - SP
+- [Serasa Experian](https://99jobs.com/serasa-experian-s-a/jobs/270923?preview=tru) Estágio 2023 híbrido, sem experiência, áreas: Analytics e Infraestrutura e Cloud.
+- 
 #### São Paulo - SP
-
+- [Serasa Experian](https://99jobs.com/serasa-experian-s-a/jobs/270923?preview=tru) Estágio 2023 híbrido, sem experiência, áreas: Analytics, Analytics and Planning (B2B), Client Integration (Entrega Técnica de Soluções aos Clientes), Customer Success (Atendimento ao Cliente), Dados, Desenvolvimento de Software & Produto (DEV), Gestão de Produtos, Governança de TI, Jurídico (Contencioso), Marketing (Comunicação) e Recursos Humanos.
 - [Creditas](https://boards.greenhouse.io/creditas/)
   - Programa de Estágio abre anualmente no mês de Junho
 - [Daitan](https://careers-br.daitan.com/pt/vagas/)
