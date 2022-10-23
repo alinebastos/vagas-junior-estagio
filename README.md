@@ -22,6 +22,9 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Codeby](https://codeby.com.br/pages/vagas)
 - [Roit Contabilidade](https://roit.gupy.io/)
 - [Serasa Experian](https://99jobs.com/serasa-experian-s-a/jobs/270923?preview=tru) Estágio 2023 totalmente remoto, sem experiência, para as áreas: Analytics, Dados, Desenvolvimento de Software & Produto (DEV), Gestão de Produtos,  Infraestrutura e Cloud.
+- [SONDA](https://www.sonda.com/pt/carreiras)
+- [Kantar IBOPE Media](https://www.kantaribopemedia.com/carreira/)
+- [Americanas](https://carreiras.americanas.com/)
 
 #### Várias cidades
 
