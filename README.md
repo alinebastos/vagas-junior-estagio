@@ -25,6 +25,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [SONDA](https://www.sonda.com/pt/carreiras)
 - [Kantar IBOPE Media](https://www.kantaribopemedia.com/carreira/)
 - [Americanas](https://carreiras.americanas.com/)
+- [Zup](https://www.zup.com.br/zup-academy)
 
 #### Várias cidades
 
@@ -32,6 +33,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Contabilizei](https://contabilizei.gupy.io/)
 - [IBM](https://www.ibm.com/br-pt/employment/entrylevel/) - **Somente estágios. Pedem experiência para júnior**
 - [Dell Technologies](https://carreiras.dell.com/search-jobs) Colocar no filtro de nível de carreira "Estudante" e "Níveis de entrada" (nesse site não tem as vagas para estágio)
+- [Consultoria Eureca](https://eureca.me/)
 
 #### Acre - AC
 
@@ -73,6 +75,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Base2](https://jobs.solides.com/base2)
 - [CI&T](https://br.ciandt.com/carreiras/programa-de-estagio-next-gen)
 - [Mundiale](https://jobs.kenoby.com/mundiale)
+- [Take Blip](https://takeblip.gupy.io/job/eyJzb3VyY2UiOiJndXB5X3B1YmxpY19wYWdlIiwiam9iSWQiOjEwOTk2NjF9?jobBoardSource=gupy_public_page)
 
 #### Pará - PA
 
@@ -133,9 +136,11 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 
 #### São Carlos - SP
+
 - [Serasa Experian](https://99jobs.com/serasa-experian-s-a/jobs/270923?preview=tru) Estágio 2023 híbrido, sem experiência, áreas: Analytics e Infraestrutura e Cloud.
 - 
 #### São Paulo - SP
+
 - [Serasa Experian](https://99jobs.com/serasa-experian-s-a/jobs/270923?preview=tru) Estágio 2023 híbrido, sem experiência, áreas: Analytics, Analytics and Planning (B2B), Client Integration (Entrega Técnica de Soluções aos Clientes), Customer Success (Atendimento ao Cliente), Dados, Desenvolvimento de Software & Produto (DEV), Gestão de Produtos, Governança de TI, Jurídico (Contencioso), Marketing (Comunicação) e Recursos Humanos.
 - [Creditas](https://boards.greenhouse.io/creditas/)
   - Programa de Estágio abre anualmente no mês de Junho
@@ -152,6 +157,7 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 
 #### São Jose dos Campos - SP
 - [Imagem](https://grupoimg.com.br/vagas) 
+
 #### Sergipe - SE
 
 #### Tocantins - TO
