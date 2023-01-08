@@ -1,0 +1,99 @@
+---
+name: Adicionar nova vaga
+about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
+title: "[Cidade] Front-end Developer na Nome da Empresa"
+
+---
+
+<!-- 
+==================================================
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA PESSOAS JUNIOR E/OU ESTAGIÁRIOS SEM EXPERIÊNCIA!
+
+Não faça distinção de gênero no título da vaga.
+
+Use: "Front-End Developer" ao invés de 
+"Desenvolvedor Front-End" \o/
+
+Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+==================================================
+-->
+
+<!--
+==================================================
+Caso a vaga for remoto durante a pandemia deixar a linha abaixo
+==================================================
+-->
+> Vaga Remota durante a pandemia
+
+## Nossa empresa
+
+Exemplo: Aqui na Corporação ACME somos líderes em...
+
+## Descrição da vaga
+
+Exemplo: Projeto bazinga em NodeJS, etc.
+
+## Local
+
+Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+
+## Requisitos
+
+**Obrigatórios:**
+- Experiência básica em HTML, CSS e JavaScript
+- Conhecimentos em versionamento de código (Git)
+- Inglês básico
+
+**Desejáveis:**
+- Conhecimentos na ferramenta Figma
+- Conhecimentos em algum framework (Angular, ReactJS ou Vue)
+
+**Diferenciais:**
+- Projetos opensource
+
+## Benefícios
+
+- Plano de saúde
+- Seguro de vida
+- VR de R$ X/dia
+- Auxílio creche
+- ...
+
+**Diferenciais:**
+- 2 horas de almoço
+- monte a sua máquina como desejar
+- frigobar sempre cheio :P
+- sala de jogos
+- ...
+
+## Contratação
+
+PJ a combinar
+
+## Como se candidatar
+
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+
+## Tempo médio de feedbacks
+
+Costumamos enviar feedbacks em até XX dias após cada processo.
+E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
+
+## Labels
+<!-- retire os labels que não fazem sentido à vaga -->
+
+#### Alocação
+- Alocado
+- Remoto
+
+#### Regime
+- CLT
+- Estágio
+- Freela
+- PJ
+
+#### Nível
+- Júnior
+- Estágio
+
+
